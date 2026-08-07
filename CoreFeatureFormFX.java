@@ -1,5 +1,3 @@
-package com.library;
-
 import java.util.List;
 import javafx.application.Application;
 import javafx.geometry.Insets;
