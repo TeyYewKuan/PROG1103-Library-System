@@ -1,5 +1,3 @@
-package com.library;
-
 public class Book {
     private String bookId;
     private String title;
