@@ -1,5 +1,3 @@
-package com.library;
-
 public class Librarian extends User {
 
     public Librarian(String userId, String password, String name) {
